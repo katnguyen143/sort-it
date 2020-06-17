@@ -1,10 +1,9 @@
 h1 {
-   font-family: Geneva;
+  font-family: Calibri;  
 }
 
 .share a {
-  background: tan;
-  border: 1px solid red;
+  font-family: Calibri;
   border-radius: 8px;
   color: grey;
   display: inline-block;
