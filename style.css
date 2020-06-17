@@ -1,3 +1,14 @@
 h1 {
-   font-family: Arial;
+   font-family: Geneva;
+}
+
+.share a {
+  background: tan;
+  border: 1px solid red;
+  border-radius: 8px;
+  color: grey;
+  display: inline-block;
+  padding: 14px;
+  text-decoration: none;
+  margin: 5px;
 }
